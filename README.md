@@ -1,6 +1,6 @@
 # cli_many_project
 
-> cli_many_project
+> vue_cli use json loader run project
 
 ## Build Setup
 
