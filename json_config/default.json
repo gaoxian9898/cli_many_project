@@ -1,0 +1,7 @@
+{
+	"build":"G:/web",
+	"module":"demo",
+	"start":"index.html",
+	"whether":false,
+	"port":8090
+}
